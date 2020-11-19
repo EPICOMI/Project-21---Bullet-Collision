@@ -1,2 +1,2 @@
-# Project-21---Bullet-Collision
-Visual Studio Code - Project 21
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
